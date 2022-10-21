@@ -1,0 +1,65 @@
+1664551656267	geckodriver	INFO	Listening on 127.0.0.1:3205
+1664551659280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\rakes\\AppData\\Local\\Temp\\rust_mozprofilemerxsz"
+*** You are running in headless mode.
+1664551659729	Marionette	INFO	Marionette enabled
+1664551659734	Marionette	INFO	Listening on port 3217
+Read port: 3217
+1664551659947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rakes\\AppData\\Local\\Temp\\rust_mozprofilemerxsz\\search.json.mozlz4", (void 0)))
+1664552189790	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+gram Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\rakes\\AppData\\Local\\Temp\\rust_mozprofileHK7Upv"
+*** You are running in headless mode.
+1664551910355	Marionette	INFO	Marionette enabled
+1664551910360	Marionette	INFO	Listening on port 2237
+Read port: 2237
+1664551910431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rakes\\AppData\\Local\\Temp\\rust_mozprofileHK7Upv\\search.json.mozlz4", (void 0)))
+1664552054834	geckodriver	INFO	Listening on 127.0.0.1:1042
+1664552057879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\rakes\\AppData\\Local\\Temp\\rust_mozprofileDlNfCj"
+*** You are running in headless mode.
+1664552058185	Marionette	INFO	Marionette enabled
+1664552058189	Marionette	INFO	Listening on port 1076
+Read port: 1076
+1664552058260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rakes\\AppData\\Local\\Temp\\rust_mozprofileDlNfCj\\search.json.mozlz4", (void 0)))
+JavaScript error: https://swap.arken.finance/static/js/main.804089f9.js, line 1: Error: Request failed with status code 400
+Safe Browsing server returned a 400 during update:request url = https://shavar.services.mozilla.com/downloads?client=navclient-auto-ffox&appver=105.0&pver=2.2, payload = ads-track-digest256;
+social-track-digest256;
+analytics-track-digest256;
+content-track-digest256;
+mozstd-trackwhite-digest256;
+google-trackwhite-digest256;
+base-fingerprinting-track-digest256;
+base-cryptomining-track-digest256;
+social-tracking-protection-facebook-digest256;
+social-tracking-protection-linkedin-digest256;
+social-tracking-protection-twitter-digest256;
+base-email-track-digest256;
+content-email-track-digest256;
+
+1664552431979	geckodriver	INFO	Listening on 127.0.0.1:8342
+1664552435008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\rakes\\AppData\\Local\\Temp\\rust_mozprofileTRNpLB"
+*** You are running in headless mode.
+1664552435321	Marionette	INFO	Marionette enabled
+1664552435325	Marionette	INFO	Listening on port 8354
+Read port: 8354
+1664552435398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rakes\\AppData\\Local\\Temp\\rust_mozprofileTRNpLB\\search.json.mozlz4", (void 0)))
+console.error: services.settings: 
+  main/query-stripping Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "<unknown>"  data: no]
+JavaScript error: https://swap.arken.finance/static/js/main.804089f9.js, line 1: Error: Network Error
+1664552653052	geckodriver	INFO	Listening on 127.0.0.1:8861
+1664552656065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\rakes\\AppData\\Local\\Temp\\rust_mozprofile5O8NfV"
+*** You are running in headless mode.
+1664552656431	Marionette	INFO	Marionette enabled
+1664552656436	Marionette	INFO	Listening on port 8873
+Read port: 8873
+1664552656672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rakes\\AppData\\Local\\Temp\\rust_mozprofile5O8NfV\\search.json.mozlz4", (void 0)))

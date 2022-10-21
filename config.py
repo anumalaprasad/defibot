@@ -1,0 +1,12 @@
+import os
+
+YOUR_WALLET_ADDRESS = "0x6ddcBd55460006b57bB7C6A3A46cEE2E17106Ce7"  # Add Your Wallet Address here by removing whole line
+YOUR_PRIVATE_KEY = "5939ab9e163ba81333eea2dd4f2397e9e459929bbd2dd4e349d1a2f38d2cedcb"  # Add Your Private Key here by removing whole line
+
+TRADE_TOKEN_ADDRESS = "0x2668babeab11780c516b1d3ad02011668aff8aa0"  # Add token address here example : "0xc66c8b40e9712708d0b4f27c9775dc934b65f0d9"
+WBNB_ADDRESS = "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+PANCAKE_ROUTER_ADDRESS = "0x10ED43C718714eb63d5aA57B78B54704E256024E"
+SHOW_TX_ON_BROWSER = True
+
+SELL_TOKENS = None
+BUY_TOKENS = None
